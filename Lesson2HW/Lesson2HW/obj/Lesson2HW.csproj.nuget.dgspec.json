@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "H:\\GitHub\\lesson2homework\\Lesson2HW\\Lesson2HW\\Lesson2HW.csproj": {}
+    "H:\\git\\lesson2homework\\Lesson2HW\\Lesson2HW\\Lesson2HW.csproj": {}
   },
   "projects": {
-    "H:\\GitHub\\lesson2homework\\Lesson2HW\\Lesson2HW\\Lesson2HW.csproj": {
+    "H:\\git\\lesson2homework\\Lesson2HW\\Lesson2HW\\Lesson2HW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\GitHub\\lesson2homework\\Lesson2HW\\Lesson2HW\\Lesson2HW.csproj",
+        "projectUniqueName": "H:\\git\\lesson2homework\\Lesson2HW\\Lesson2HW\\Lesson2HW.csproj",
         "projectName": "Lesson2HW",
-        "projectPath": "H:\\GitHub\\lesson2homework\\Lesson2HW\\Lesson2HW\\Lesson2HW.csproj",
-        "packagesPath": "C:\\Users\\קירשנבוים מלכה\\.nuget\\packages\\",
-        "outputPath": "H:\\GitHub\\lesson2homework\\Lesson2HW\\Lesson2HW\\obj\\",
+        "projectPath": "H:\\git\\lesson2homework\\Lesson2HW\\Lesson2HW\\Lesson2HW.csproj",
+        "packagesPath": "C:\\Users\\אינהורן חיה\\.nuget\\packages\\",
+        "outputPath": "H:\\git\\lesson2homework\\Lesson2HW\\Lesson2HW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\קירשנבוים מלכה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\אינהורן חיה\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
